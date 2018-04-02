@@ -1,1 +1,4 @@
 my first test file on mylocalgitrpstry to be copied onto github 
+Line2 
+Line3
+Line3 - fun
